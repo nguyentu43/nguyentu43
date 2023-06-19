@@ -9,5 +9,5 @@ I'm a person who is enthusiastic about new technology.
 
 ## 🛠 Skills
 * Languages: C/C++, Javascript, C#, PHP, Dart, Java
-* Frameworks: Qt, React, ExpressJS, Laravel, .Net Core, Flutter
-* Database: MySQL, PostgreSQL, MongoDB, Redis
+* Frameworks: React, ExpressJS, Laravel, .Net Core, Flutter
+* Database: MySQL, PostgreSQL, SQLServer, MongoDB, Redis
