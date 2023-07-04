@@ -12,7 +12,7 @@ I'm a person who is enthusiastic about new technology.
 ## 📱 Published Apps
 |Title|Description|Link|
 |-------------------------|------------------------|---|
-| Simple Document Scanner | Scan document into PDF |<a href="https://play.google.com/store/apps/dev?id=4781958064608740082"><img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" width="200" height="auto"/></a>|
+| Simple Document Scanner | Scan document into PDF |<a href="https://play.google.com/store/apps/details?id=com.marchdev.simple_document_scanner"><img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" width="200" height="auto"/></a>|
 | ... |                        |  |
 
 ## 📑 Stats
