@@ -1,7 +1,7 @@
 
 # Hi, I'm Tu! 👋
 
-## 🚀 About Me
+<!-- ## 🚀 About Me
 I'm a person who is enthusiastic about new technology.
 
 ## 🛠 Skills
@@ -17,3 +17,5 @@ I'm a person who is enthusiastic about new technology.
 
 ## 📑 Stats
 ![](https://komarev.com/ghpvc/?username=nguyentu43)
+
+--!>
